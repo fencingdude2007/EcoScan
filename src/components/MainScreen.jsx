@@ -232,7 +232,7 @@ const MainScreen = () => {
           animate={{ y: 0, opacity: 1 }}
           transition={{ delay: 0.2, type: 'spring', stiffness: 120 }}
         >
-          Environmental Evaluator
+          EcoScan
         </motion.h1>
 
         <motion.form
